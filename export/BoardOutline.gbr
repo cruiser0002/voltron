@@ -1,0 +1,19 @@
+G04 DipTrace 2.4.0.2*
+%INBoardOutline.gbr*%
+%MOMM*%
+%ADD11C,0.14*%
+%FSLAX53Y53*%
+G04*
+G71*
+G90*
+G75*
+G01*
+%LNBoardOutline*%
+%LPD*%
+X3333Y212000D2*
+D11*
+Y-28733D1*
+X130333D1*
+Y212000D1*
+X3333D1*
+M02*
